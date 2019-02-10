@@ -1,2 +1,2 @@
-# A-_java_prolog
+# A*_java_prolog
 Υλοποίηση αλγορίθμου αναζήτησης Α* σε java &amp; prolog
